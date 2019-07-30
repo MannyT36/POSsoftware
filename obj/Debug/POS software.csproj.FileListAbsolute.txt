@@ -1,0 +1,48 @@
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\POS software.exe.config
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\POS software.exe
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\POS software.pdb
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.csprojAssemblyReference.cache
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.Form1.resources
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.Properties.Resources.resources
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.csproj.GenerateResource.cache
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.exe
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.pdb
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\x86\sqlite3.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\x64\sqlite3.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Dapper.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\EntityFramework.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\System.Data.SQLite.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Dapper.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\EntityFramework.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\System.Data.SQLite.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS software.csproj.CopyComplete
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.Properties.Login.resources
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.Login.resources
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.subMenu.resources
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.pdb
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reena\Documents\Work\POS software\bin\Debug\BunifuDataViz.dll
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.AddProduct.resources
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.UpdateProduct.resources
+C:\Users\Reena\Documents\Work\POS software\obj\Debug\POS_software.Testing.resources
