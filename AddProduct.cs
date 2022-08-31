@@ -107,7 +107,7 @@ namespace POS_software
                 cmd.Parameters.Add(new SQLiteParameter("@category", category));
                 cmd.ExecuteNonQuery();
 
-                MessageBox.Show("Category Added!", "Success", MessageBoxButtons.OK);
+                MessageBox.Show("Category Added Successfully!", "Success", MessageBoxButtons.OK);
                 con.Close();
             };
 
