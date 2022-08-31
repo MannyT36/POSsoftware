@@ -169,12 +169,12 @@ namespace POS_software
 
         private void AddStockPlus_Click(object sender, EventArgs e)
         {
-            int x = 1;
+            int plus = 1;
 
 
             int amount;
             bool parsedOk = int.TryParse(StockText.Text, out amount);
-            amount = amount + x;
+            amount = amount + plus;
 
             StockText.Text = amount.ToString();
         }
